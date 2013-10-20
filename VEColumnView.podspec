@@ -8,6 +8,6 @@ Pod::Spec.new do |s|
   s.source       = { :git => 'https://github.com/vespid/VEColumnViewSample.git', :tag => "v#{s.version}" }
   s.platform     = :ios, '5.0'
   s.ios.deployment_target = '5.0'
-  s.source_files = 'VEColumnView/VEColumnView.{h,m}'
+  s.source_files = 'VEColumnViewSample/VEColumnView.{h,m}'
   s.requires_arc = true
 end
