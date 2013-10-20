@@ -1,6 +1,6 @@
 //
-//  VEPinterestView.m
-//  VEPinterestViewSample
+//  VEColumnView.m
+//  VEColumnViewSample
 //
 //  Created by Yamazaki Mitsuyoshi on 6/18/13.
 //  Copyright (c) 2013 Mitsuyoshi Yamazaki. All rights reserved.
